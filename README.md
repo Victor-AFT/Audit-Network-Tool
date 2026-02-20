@@ -1,6 +1,6 @@
 # Audit Network Tool
 
-Una aplicación de auditoría IP con GUI en Python que permite conectar, validar y extraer información de dispositivos de red (RuggedCom, Fortinet, uSysCom, Cisco) mediante SSH/Telnet, procesando listados desde un archivo XLS y generando resultados en archivos organizados por fabricante.
+Una aplicación de auditoría IP con GUI en Python que permite conectar, validar y extraer información de dispositivos de red Switch y Router mediante SSH/Telnet, procesando listados desde un archivo XLS y generando resultados en archivos organizados por fabricante.
 
 ## Características
 - Interfaz gráfica con Tkinter.
