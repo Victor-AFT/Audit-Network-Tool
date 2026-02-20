@@ -7,7 +7,7 @@ Una aplicación de auditoría IP con GUI en Python que permite conectar, validar
 - Lectura automática de archivos `.xls` y conversión a `.xlsx`.
 - Conexión SSH/Telnet a múltiples fabricantes: RuggedCom, Fortinet, Cisco y ZIV (uSysCom).
 - Extracción de configuraciones: VLAN, interfaces, ARP, puertos, estadísticas, etc.
-- Soporte para credenciales ISE, TACACS+ y Radius.
+- Soporte para credenciales de servidores de autenticacion centralizada.
 - Gestión de logs opcional.
 - Generación automática de carpetas y archivos organizados.
 
